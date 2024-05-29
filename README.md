@@ -1,4 +1,9 @@
 # MLHeartDiseasePredictor
+![Alt text](relative/path/to/your/image.png)
+![Alt text](relative/path/to/your/image.png)
+![Alt text](relative/path/to/your/image.png)
+![Alt text](relative/path/to/your/image.png)
+
 ## Introduction
 Heart disease is one of the leading causes of death worldwide. Early prediction of heart disease can significantly improve patient outcomes. This project utilizes machine learning techniques to predict heart disease based on clinical parameters such as age, sex, chest pain type, resting blood pressure, and others.
 
